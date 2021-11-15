@@ -1,3 +1,3 @@
 # NKUST
-C100000001
-Hi, this is my Java course
+S1024962
+Hi, Here is Henry
