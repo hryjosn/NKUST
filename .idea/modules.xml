@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Count_1/Count_1.iml" filepath="$PROJECT_DIR$/Count_1/Count_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Count_2/Count_2.iml" filepath="$PROJECT_DIR$/Count_2/Count_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/NKUST.iml" filepath="$PROJECT_DIR$/.idea/NKUST.iml" />
     </modules>
