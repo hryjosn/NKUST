@@ -1,11 +1,11 @@
 class UnHash{
 
     public static void main (String[] args) {
-        System.out.println(revHash(6933552791181934L));
-        System.out.println(hash("justdoit"));
+        System.out.println(revHash(574318821802L));
+        System.out.println(hash("ilovecoding:)"));
     }
 
-    public static String letters = "cdefghijlmnoqstuvxz";
+    public static String letters = "cdef:ghijlmnoqstu)vxz";
 
     public static String revHash(long hash) {
         if (hash == 7) return ""; // if given length, the last digit '7' can be discarded directly here.
