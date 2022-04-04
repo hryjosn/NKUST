@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Count_2/Count_2.iml" filepath="$PROJECT_DIR$/Count_2/Count_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/NKUST.iml" filepath="$PROJECT_DIR$/.idea/NKUST.iml" />
       <module fileurl="file://$PROJECT_DIR$/RemoveDuplicates/RemoveDuplicates.iml" filepath="$PROJECT_DIR$/RemoveDuplicates/RemoveDuplicates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ptt_spider/ptt_spider.iml" filepath="$PROJECT_DIR$/ptt_spider/ptt_spider.iml" />
     </modules>
   </component>
 </project>
